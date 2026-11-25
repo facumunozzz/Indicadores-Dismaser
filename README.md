@@ -1,7 +1,5 @@
 # Dismaser Control — menú inicial (React + Electron)
 
-Esta primera versión **solo incluye la estructura visual y la navegación**. No importa Excel, no calcula indicadores y todavía no sincroniza datos entre computadoras.
-
 ## Requisitos (Windows)
 - Node.js LTS y npm, instalados desde https://nodejs.org/
 - Windows 10/11 de 64 bits
